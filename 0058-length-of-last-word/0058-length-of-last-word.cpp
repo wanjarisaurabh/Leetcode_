@@ -4,24 +4,19 @@ class Solution {
 public:
     int lengthOfLastWord(string s) {
         string ans ="";
-        string tem= "";
-        for(int i =0; i< s.size(); i++){
-            if(s[i] == ' ' && !tem.empty() ){
-                ans = tem;
-                tem.clear();
-            }
-            
+        int n = s.size();
+        int i = n -1;
+        while( i >= 0){
+            if(!ans.empty() && s[i] == ' '){
+                break;
+        }
         if(s[i] != ' '){
-            tem += s[i];
+            ans += s[i];
         }
-        
+        i--;
+        }
 
-            
-        }
-        if(!tem.empty()){
-            ans = tem;
-        }
         return ans.size();
         
     }
-};
+}; 
