@@ -1,4 +1,6 @@
 class Solution {
+
+    //the first array representing the 2 seond array gretest number 
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
       int n = nums1.size();
