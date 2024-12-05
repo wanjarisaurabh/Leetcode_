@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0040-combination-sum-ii) |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -36,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
