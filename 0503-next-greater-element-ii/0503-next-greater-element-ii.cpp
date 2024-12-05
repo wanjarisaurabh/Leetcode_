@@ -1,24 +1,41 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> ans(n, -1); // Initialize the answer vector with -1
-        stack<int> st;         // Stack to store indices for comparison
+                int n = nums.size();
 
+        vector<int>ans(n);
+
+        stack<int>st;
+
+        
         for (int i = n * 2 - 1; i >= 0; i--) {
-            // Ensure the stack contains only elements greater than the current element
-            while (!st.empty() && nums[st.top()] <= nums[i % n]) {
+
+            while (!st.empty() && st.top() <= nums[i % n]) {
                 st.pop();
+
             }
 
-            // Store the result for the current index if within the original range
-            if (i < n && !st.empty()) {
-                ans[i] = nums[st.top()];
+            if (st.empty()) {
+                if (i < n) {
+                    ans[i] = -1;
+                }
+            }
+            else {
+                if(i < n) {
+                ans[i] = st.top();
+
+                }
+
             }
 
-            // Push the current index onto the stack
-            st.push(i % n);
+
+
+
+
+            st.push(nums[i % n]);
         }
+
+
 
         return ans;
     }
