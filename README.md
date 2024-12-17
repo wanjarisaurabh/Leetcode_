@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
