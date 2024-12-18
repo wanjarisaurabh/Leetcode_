@@ -13,6 +13,9 @@ public:
 
             if (right - left + 1 - maxCount > k) {
                 mp[s[left]]--;
+                if (mp[s[left]] == 0) {
+                    mp.erase(s[left]);
+                }
                 left++;
             }
 
