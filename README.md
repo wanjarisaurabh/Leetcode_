@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0503-next-greater-element-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0966-binary-subarrays-with-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -88,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
