@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/wanjarisaurabh/Leetcode_code-s/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
