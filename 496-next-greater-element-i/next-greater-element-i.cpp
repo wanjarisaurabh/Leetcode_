@@ -1,3 +1,12 @@
+
+/* 
+-traversing from back and taking element in the stack 
+-is stack sonsist small number st.top <= currValue then remve it 
+
+
+
+*/
+
 class Solution {
 
     //the first array representing the 2 seond array gretest number 
