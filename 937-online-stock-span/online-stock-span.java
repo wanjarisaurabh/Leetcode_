@@ -13,12 +13,12 @@ class StockSpanner {
 
     public int next(int price) {
 
-        int span = 1;
-        while (!st.isEmpty() && st.peek()[0] <= price) {
-            span += st.pop()[1];
+        int span = 1; // at stating 
+        while (!st.isEmpty() && st.peek()[0] <= price) { //comparing with the price 
+            span += st.pop()[1]; //adding the recent number span 
         }
 
-        st.push(new int[] { price, span });
+        st.push(new int[] { price, span });//when the st is empty or the st contains high price 
 
         return span;
 
