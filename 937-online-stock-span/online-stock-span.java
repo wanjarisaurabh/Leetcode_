@@ -1,3 +1,6 @@
+//using the concep of previouse greater element
+
+
 class StockSpanner {
 
     Stack<int[]> st;
