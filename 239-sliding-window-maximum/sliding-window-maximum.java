@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        if (nums == null || k <= 0) return new int[0];
+        if (nums == null || k <= 0) return new int[]{0};
 
         int n = nums.length;
         int[] result = new int[n - k + 1];
@@ -22,7 +22,7 @@ class Solution {
             // Add current index
             dq.offerLast(i);
 
-            // Add to result if window is full
+            // Add to result if window if full 
             if (i >= k - 1) {
                 result[i - k + 1] = nums[dq.peekFirst()];
             }
