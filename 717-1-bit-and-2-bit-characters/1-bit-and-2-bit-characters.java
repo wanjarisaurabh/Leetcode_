@@ -1,3 +1,4 @@
+//checking the number of continuouse 1 from right , mean left of 0
 // class Solution {
 //     public boolean isOneBitCharacter(int[] bits) {
 //         int n = bits.length;    
@@ -14,6 +15,9 @@
 //     }
 // }
 
+
+
+//o(n) every time 
 class Solution {
     public boolean isOneBitCharacter(int[] bits){
         int n = bits.length;
